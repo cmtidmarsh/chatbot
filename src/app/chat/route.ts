@@ -11,7 +11,7 @@ export async function POST(req: Request) {
     messages: [
       {
         role: "system",
-        content: "ghosts",
+        content: "spirits",
       },
       {
         role: "user",
